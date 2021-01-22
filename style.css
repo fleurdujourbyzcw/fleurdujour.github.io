@@ -1,9 +1,9 @@
-@import "http://fonts.googleapis.com/css?family=Montserrat:400,700";
+@import "http://fonts.googleapis.com/css?family=Avant-Garde:400,700";
 body {
   color: gray;
   margin: 0;
 
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Avant-Garde', sans-serif;
 }
 #header a:hover {
   color: beige;
