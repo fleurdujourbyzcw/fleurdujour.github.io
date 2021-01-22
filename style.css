@@ -13,13 +13,12 @@ body {
   text-decoration: none;
 
   text-transform: uppercase;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.1em;
 }
 #header {
   background-color: Pink;
   height: 150px;
   line-height: 140px;
-  margin-left: 0;
 
 }
 #header img {
